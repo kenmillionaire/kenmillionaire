@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenmillionaire
 - 👀 I’m interested in fullstack web development
-- - 🌱 I’m currently learning frontend web development
+- - 🌱 I’m addding new frontend web development skills daily
 - 💞️ I’m looking to collaborate on various frontend projects
 - 📫 How to reach me (https://www.linkedin.com/in/kehinde-oyeronke-osoba/)
 
